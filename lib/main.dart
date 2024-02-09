@@ -2,8 +2,7 @@ import 'package:employee_management_app/Presentation/ui/screens/Home.dart';
 import 'package:flutter/material.dart';
 
 Future<void> main() async {
-// WidgetsFlutterBinding.ensureInitialized();
-// await MongoDatabase.connect();
+
   runApp(const MyApp());
 }
 
